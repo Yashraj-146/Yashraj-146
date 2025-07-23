@@ -1,16 +1,78 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Yashraj-146/Yashraj-146/blob/main/animation_500_kxa883sd.gif" width="250" alt="Working GIF">
+</p>
 
-<!--
-**Yashraj-146/Yashraj-146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hey there, I'm Yashraj Panhalkar 👋</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 AI/ML Intern • 👨‍💻 Full Stack Learner • 📈 Demand Trend Forecast Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 About Me
+
+- 🎓 Final-year Computer Engineering student at **Pune Institute of Computer Technology**
+- 🤖 Passionate about **Machine Learning, NLP, and Algorithmic Trading**
+- 🚀 Currently working on a **short-term equity trading recommender system** using LLMs and technical indicators
+- 🧠 I love building impactful solutions with **FastAPI**, **Hugging Face**, **Docker**, and **TensorFlow**
+- 📊 Strong background in **Time-series Forecasting** using models like LSTM and TFT
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+`Python` • `C++` • `SQL`
+
+**Frameworks & Libraries**  
+`TensorFlow` • `Keras` • `Pandas` • `NumPy` • `React.js` • `FastAPI` • `NLP`
+
+**Databases & Tools**  
+`MongoDB` • `MySQL` • `PostgreSQL` • `Docker` • `Google Colab` • `Jupyter` • `VS Code` • `Hugging Face Spaces`
+
+---
+
+### 📈 Featured Projects
+
+🔹 **[Retail Demand Forecasting](https://zealous-desert-00a23031e.6.azurestaticapps.net/)**  
+_LSTM, TFT, React JS, Azure_  
+> Forecasting demand for small enterprises using temporal models and integrating actionable insights into React-based dashboards.
+
+🔹 **[Resume Classifier](https://huggingface.co/spaces/Yashraj-146/resume-classifier)**  
+_DistilBERT, FastAPI, Hugging Face, Docker_  
+> AI-based resume-to-JD matcher with real-time scoring and semantic understanding, deployed on Hugging Face Spaces.
+
+---
+
+### 💼 Internship Experience
+
+- 💼 **Lead AI/ML Intern @ Kola Communications**  
+  Building a live **intraday equity trading recommender system** using real-time APIs and strategic pattern recognition.
+
+- 💼 **AI/ML Intern @ Vishleshan Software**  
+  Designed an LLM-powered task extractor for WhatsApp Business messages with full-stack integration.
+
+---
+
+### 📜 Certifications
+
+- ✅ Supervised Machine Learning - Coursera  
+- ✅ Advanced Learning Algorithms - Coursera  
+
+---
+
+### 📚 Research & Achievements
+
+- ✍️ Published Paper: **Flight Delay Prediction using LSTM & XGBoost** ([Elsevier CRD, 2024](https://journalcrd.org/wp-content/uploads/17-CRD2418.pdf))
+
+---
+
+### 📬 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashraj-panhalkar/)
+- 🧑‍💻 [GitHub](https://github.com/Yashraj-146)
+- 🎯 [LeetCode](https://leetcode.com/u/Yashraj_146/)
+- 📧 yashrajpanhalkar146@gmail.com
+
+---
