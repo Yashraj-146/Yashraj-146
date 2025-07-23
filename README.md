@@ -43,6 +43,10 @@ _LSTM, TFT, React JS, Azure_
 _DistilBERT, FastAPI, Hugging Face, Docker_  
 > AI-based resume-to-JD matcher with real-time scoring and semantic understanding, deployed on Hugging Face Spaces.
 
+🔹 **[Flight Delay Prediction using LSTM & XGBoost](https://github.com/Yashraj-146/Flight-Delay-Prediction-using-LSTM-XGBoost)**  
+_LSTM, XGBoost, Time Series Modeling_  
+> Developed a hybrid model combining LSTM for temporal insights and XGBoost for feature selection. Achieved **98.4% accuracy** on BTS data by engineering features like airline and aircraft age. Fully documented with architecture and optimization strategy.
+
 ---
 
 ### 💼 Internship Experience
