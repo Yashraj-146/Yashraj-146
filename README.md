@@ -48,7 +48,7 @@ _DistilBERT, FastAPI, Hugging Face, Docker_
 ### 💼 Internship Experience
 
 - 💼 **Lead AI/ML Intern @ Kola Communications**  
-  Building a live **intraday equity trading recommender system** using real-time APIs and strategic pattern recognition.
+  Building a live **intraday equity trading recommender system** using strategic pattern recognition.
 
 - 💼 **AI/ML Intern @ Vishleshan Software**  
   Designed an LLM-powered task extractor for WhatsApp Business messages with full-stack integration.
