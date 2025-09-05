@@ -26,7 +26,7 @@
 `Python` • `C++` • `SQL`
 
 **Frameworks & Libraries**  
-`TensorFlow` • `Keras` • `Pandas` • `NumPy` • `React.js` • `FastAPI` • `NLP`
+`TensorFlow` • `Keras` • `Machine Learning` • `Deep Learning` • `React.js` • `FastAPI` • `NLP`
 
 **Databases & Tools**  
 `MongoDB` • `MySQL` • `PostgreSQL` • `Docker` • `Google Colab` • `Jupyter` • `VS Code` • `Hugging Face Spaces`
