@@ -77,6 +77,7 @@ _LSTM, XGBoost, Time Series Modeling_
 - 💼 [LinkedIn](https://www.linkedin.com/in/yashraj-panhalkar/)
 - 🧑‍💻 [GitHub](https://github.com/Yashraj-146)
 - 🎯 [LeetCode](https://leetcode.com/u/Yashraj_146/)
+- 🧑‍💻 [TUF+](https://takeuforward.org/plus/profile/Yashraj146)
 - 📧 yashrajpanhalkar146@gmail.com
 
 ---
