@@ -39,9 +39,13 @@
 _LSTM, TFT, React JS, Azure_  
 > Forecasting demand for small enterprises using temporal models and integrating actionable insights into React-based dashboards.
 
+🔹 **[ClickHouse Log Pipeline](https://github.com/Yashraj-146/ClickHouseLogPipeline)**  
+_Java, Docker, ClickHouse, Log Processing_  
+> Built a high-throughput log ingestion and processing pipeline designed around ClickHouse for fast analytics. Implemented the core pipeline in **Java** and containerized components with **Docker** for reproducible local deployment.
+
 🔹 **[Multithreaded Log Analytics Engine](https://github.com/Yashraj-146/Multithreaded-Log-Analyzer)**  
 _C++17, Multithreading, Concurrency, CLI_  
-> Designed and implemented a multithreaded log processing tool in modern C++17 capable of parsing and aggregating large-scale network/server logs. Leveraged thread pools, mutexes, and atomic counters to parallelize computation of metrics such as latency and error rates. Achieved **4× performance improvement** on 1GB log datasets through optimized I/O and concurrency control.
+> Designed and implemented a multithreaded log processing tool in modern C++17 capable of parsing and aggregating large-scale network/server logs. Leveraged thread pools, mutexes, and atomic counters [...]
 
 🔹 **[Resume Classifier](https://huggingface.co/spaces/Yashraj-146/resume-classifier)**  
 _DistilBERT, FastAPI, Hugging Face, Docker_  
@@ -49,7 +53,7 @@ _DistilBERT, FastAPI, Hugging Face, Docker_
 
 🔹 **[Flight Delay Prediction using LSTM & XGBoost](https://github.com/Yashraj-146/Flight-Delay-Prediction-using-LSTM-XGBoost)**  
 _LSTM, XGBoost, Time Series Modeling_  
-> Developed a hybrid model combining LSTM for temporal insights and XGBoost for feature selection. Achieved **98.4% accuracy** on BTS data by engineering features like airline and aircraft age. Fully documented with architecture and optimization strategy.
+> Developed a hybrid model combining LSTM for temporal insights and XGboost for feature selection. Achieved **98.4% accuracy** on BTS data by engineering features like airline and aircraft age. Fully [...]
 ---
 
 ### 💼 Internship Experience
