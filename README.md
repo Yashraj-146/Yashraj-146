@@ -45,7 +45,7 @@ _Java, Docker, ClickHouse, Log Processing_
 
 🔹 **[KubeShort](https://kube-short-url-shortener.vercel.app/)**
 _Kubernetes, URL Shortener, DevOps, Backend_
-Built a scalable URL shortener with Kubernetes-native deployment and containerized backend services.
+> Built a scalable URL shortener with Kubernetes-native deployment and containerized backend services.
 
 🔹 **[Multithreaded Log Analytics Engine](https://github.com/Yashraj-146/Multithreaded-Log-Analyzer)**  
 _C++17, Multithreading, Concurrency, CLI_  
