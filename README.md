@@ -35,7 +35,7 @@
 
 ### 📈 Featured Projects
 
-🔹 **[Retail Demand Forecasting](https://zealous-desert-00a23031e.6.azurestaticapps.net/)**  
+🔹 **[Retail Demand Forecasting](https://github.com/Yashraj-146/Demand-Retail-Forecast-for-SSE-s)**  
 _LSTM, TFT, React JS, Azure_  
 > Forecasting demand for small enterprises using temporal models and integrating actionable insights into React-based dashboards.
 
