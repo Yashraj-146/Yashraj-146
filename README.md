@@ -66,7 +66,7 @@ _LSTM, XGBoost, Time Series Modeling_
   Building a live **intraday equity trading recommender system** using strategic pattern recognition.
 
 - 💼 **AI/ML Intern @ Vishleshan Software**  
-  Designed an LLM-powered task extractor for WhatsApp Business messages with full-stack integration.
+  Built an AI-powered code analysis platform that delivers real-time code explanations and behavior-preserving optimizations using AST analysis and LLMs.
 
 ---
 
