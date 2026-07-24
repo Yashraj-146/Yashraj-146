@@ -43,6 +43,10 @@ _LSTM, TFT, React JS, Azure_
 _Java, Docker, ClickHouse, Log Processing_  
 > Built a high-throughput log ingestion and processing pipeline designed around ClickHouse for fast analytics. Implemented the core pipeline in **Java** and containerized components with **Docker** for reproducible local deployment.
 
+🔹 **[KubeShort](https://kube-short-url-shortener.vercel.app/)**
+_Kubernetes, URL Shortener, DevOps, Backend_
+Built a scalable URL shortener with Kubernetes-native deployment and containerized backend services.
+
 🔹 **[Multithreaded Log Analytics Engine](https://github.com/Yashraj-146/Multithreaded-Log-Analyzer)**  
 _C++17, Multithreading, Concurrency, CLI_  
 > Designed and implemented a multithreaded log processing tool in modern C++17 capable of parsing and aggregating large-scale network/server logs. Leveraged thread pools, mutexes, and atomic counters [...]
