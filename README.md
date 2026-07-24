@@ -41,7 +41,7 @@ _LSTM, TFT, React JS, Azure_
 
 🔹 **[ClickHouse Log Pipeline](https://github.com/Yashraj-146/ClickHouseLogPipeline)**  
 _Java, Docker, ClickHouse, Log Processing_  
-> Built a high-throughput log ingestion and processing pipeline designed around ClickHouse for fast analytics. Implemented the core pipeline in **Java** and containerized components with **Docker** for reproducible local deployment.
+> Built a high-throughput log ingestion and processing pipeline designed around ClickHouse for fast analytics. Implemented the core pipeline in **Java** and containerized components with **Docker** for seamless deployment and scalability.
 
 🔹 **[KubeShort](https://kube-short-url-shortener.vercel.app/)**
 _Kubernetes, URL Shortener, DevOps, Backend_
@@ -49,7 +49,7 @@ _Kubernetes, URL Shortener, DevOps, Backend_
 
 🔹 **[Multithreaded Log Analytics Engine](https://github.com/Yashraj-146/Multithreaded-Log-Analyzer)**  
 _C++17, Multithreading, Concurrency, CLI_  
-> Designed and implemented a multithreaded log processing tool in modern C++17 capable of parsing and aggregating large-scale network/server logs. Leveraged thread pools, mutexes, and atomic counters [...]
+> Designed and implemented a multithreaded log processing tool in modern C++17 capable of parsing and aggregating large-scale network/server logs. Leveraged thread pools, mutexes, and atomic counters to optimize concurrent processing and achieve high throughput performance.
 
 🔹 **[Resume Classifier](https://huggingface.co/spaces/Yashraj-146/resume-classifier)**  
 _DistilBERT, FastAPI, Hugging Face, Docker_  
@@ -57,7 +57,7 @@ _DistilBERT, FastAPI, Hugging Face, Docker_
 
 🔹 **[Flight Delay Prediction using LSTM & XGBoost](https://github.com/Yashraj-146/Flight-Delay-Prediction-using-LSTM-XGBoost)**  
 _LSTM, XGBoost, Time Series Modeling_  
-> Developed a hybrid model combining LSTM for temporal insights and XGboost for feature selection. Achieved **98.4% accuracy** on BTS data by engineering features like airline and aircraft age. Fully [...]
+> Developed a hybrid model combining LSTM for temporal insights and XGboost for feature selection. Achieved **98.4% accuracy** on BTS data by engineering features like airline and aircraft age. Fully documented with comprehensive model evaluation and deployment-ready code.
 ---
 
 ### 💼 Internship Experience
