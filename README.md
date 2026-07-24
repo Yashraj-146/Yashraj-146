@@ -43,7 +43,7 @@ _LSTM, TFT, React JS, Azure_
 _Java, Docker, ClickHouse, Log Processing_  
 > Built a high-throughput log ingestion and processing pipeline designed around ClickHouse for fast analytics. Implemented the core pipeline in **Java** and containerized components with **Docker** for seamless deployment and scalability.
 
-🔹 **[KubeShort](https://kube-short-url-shortener.vercel.app/)**
+🔹 **[KubeShort](https://kube-short-url-shortener.vercel.app/)**  
 _Kubernetes, URL Shortener, DevOps, Backend_
 > Built a scalable URL shortener with Kubernetes-native deployment and containerized backend services.
 
